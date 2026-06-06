@@ -9,11 +9,16 @@ This mod is for people who would just download and play literally any Balatro Mo
 This mod currently adds:
 
 60+ Jokers (3 Cryptid-Exclusive)
+
 14 Decks
 A new type of consumables more powerful than spectral cards!
+
 A new rarity between rare and legendary! (2rare4me)
+
 No sense of balance whatsoever!
+
 Tons of memes! (most will be dead by the time this mod has been released)
+
 And slightly more!
 
 Loosely inspired off of Peakshitmod and Cryptposting (without the insane hyperrarities so just posting ig)
