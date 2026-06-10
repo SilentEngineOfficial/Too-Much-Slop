@@ -11,6 +11,7 @@ This mod currently adds:
 60+ Jokers (3 Cryptid-Exclusive)
 
 14 Decks
+
 A new type of consumables more powerful than spectral cards!
 
 A new rarity between rare and legendary! (2rare4me)
