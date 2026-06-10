@@ -1,5 +1,5 @@
 For New Users:
-click on the code button thing and press download zip to download. Open the Downloads folder, or whichever folder you use to download files in, Press Win + R and paste in %AppData%/Balatro/Mods and then drag the mod from Downloads to your Balatro Mods Folder. Make Sure you have Steammodded and Lovely installed before installing this. Balatro Mod Manager for PC makes the process easier.
+click on the code button thing and press download zip to download (or go to releases!). Open the Downloads folder, or whichever folder you use to download files in, Press Win + R and paste in %AppData%/Balatro/Mods and then drag the mod from Downloads to your Balatro Mods Folder. Make Sure you have Steammodded and Lovely installed before installing this. Balatro Mod Manager for PC makes the process easier.
 
 
 For Everyone (New users included):
